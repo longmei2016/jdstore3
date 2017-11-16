@@ -35,6 +35,8 @@ gem 'simple_form'
 gem 'font-awesome-rails'
 gem 'mini_magick'
 gem 'carrierwave'
+gem 'letter_opener', group: :development
+gem 'aasm'
 
 
 group :development, :test do
